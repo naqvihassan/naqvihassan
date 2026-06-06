@@ -42,16 +42,6 @@ Backend-leaning full stack developer based in **Lahore, Pakistan**. I build APIs
 
 ---
 
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=naqvihassan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-&nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqvihassan&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
 - Building full stack web applications with a backend focus
 - Working on applied AI — computer vision & NLP systems
 - Open to roles in **Full Stack & Backend Engineering**
