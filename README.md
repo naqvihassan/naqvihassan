@@ -1,10 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:00B4D8&height=220&section=header&text=Hassan%20Naqvi&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend-focused&descSize=20&descColor=00B4D8&descAlignY=58)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:00B4D8&height=180&section=header&text=Hassan%20Naqvi&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20Backend-focused&descSize=18&descColor=00B4D8&descAlignY=62)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Building+APIs+%26+backend+systems;Full+stack+%7C+backend-focused;Open+to+new+opportunities)](https://git.io/typing-svg)
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassan-naqvi-profile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=firefox&logoColor=white)](https://hassan-naqvi.vercel.app)
@@ -44,30 +42,16 @@ Backend-leaning full stack developer based in **Lahore, Pakistan**. I build APIs
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=naqvihassan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=naqvihassan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqvihassan&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqvihassan&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 ---
-
-## 🌱 Currently
 
 - Building full stack web applications with a backend focus
 - Working on applied AI — computer vision & NLP systems
 - Open to roles in **Full Stack & Backend Engineering**
-
----
-
-<div align="center">
-
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassan-naqvi-profile)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0D1117&height=120&section=footer)
-
-</div>
